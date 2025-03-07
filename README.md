@@ -1,5 +1,7 @@
 iAccelerate Women's Hackathon - HEALTH & WELLNESS
+
 Menstrual Cycle Data Analysis
+
 This repository contains the code for analyzing the Menstrual Cycle Data and segmenting women's health profiles using Hierarchical Clustering and Gaussian Mixture Models (GMM). 
 The objective is to provide personalized healthcare recommendations based on menstrual health data.
 
